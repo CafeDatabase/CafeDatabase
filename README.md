@@ -9,12 +9,12 @@
 
 Those are the links!
 
-- YouTube Channel       📹 - https://www.youtube.com/channel/UCNX_BmPtA_IFBqaxlmGt69w (spanish)
+- YouTube Channel       📹 - https://www.youtube.com/@cafedatabase (spanish)
 - Cafe Database Site    ☕ - https://cafedatabase.com  (spanish and english)
 - Twitter               🐦 - https://twitter.com/cafedatabase  (spanish and english)
-- Discord Invite        🧑‍💻 - https://pages.cafedatabase.com (english) https://paginas.cafedatabase.com (spanish)
-- Cafe Database podcast 🎙️ - https://shows.acast.com/cafedatabase (spanish)
-- Patreon Site          🎟️ - https://www.patreon.com/cafedatabase_es  (spanish)
+- Discord Server        🧑‍💻 - https://pages.cafedatabase.com (english)  /    https://paginas.cafedatabase.com (spanish)
+- Cafe Database podcast 🎙️ - https://shows.acast.com/cafedatabase-1 (spanish)
+- Academia              📚 - https://academia.cafedatabase.com   (spanish)
 - Blog                  🗒️ - https://www.cafedatabase.com/blog (spanish and english)
 
 <!---
